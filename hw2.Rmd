@@ -1,0 +1,33 @@
+---
+title: "Homework 2"
+author: "[Team name: member 1, member 2, member 3]"
+date: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, comment = NA)
+```
+
+## Task 3
+
+```{r constructor}
+
+```
+
+```{r validator}
+
+```
+
+```{r helper}
+
+```
+
+## Task 4
+
+## Task 5
+
+## Task 6
+
+Please include your write-up here...
+
